@@ -1,6 +1,6 @@
 # TaskManagement_21051109
-Welcome to my TaskManagementSystem
+Welcome to my TaskManagementSystem.
 First we have to make an account using SIGN-up button, then after signup is done, we have to do login.
 After login we have to click manage task, which will take us to out management window.
 We can add , delete tasks there and even after log out we can make it visible after next login.
-Thank you for visiting out website
+Thank you for visiting our website .
